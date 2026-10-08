@@ -35,7 +35,7 @@ Game tiếng Anh đã có bộ đọc chữ. Tiếng Trung, Nhật, Hàn cần t
 
 Bấm **Bắt đầu dịch** lần nữa. Khi Android hỏi, chọn **Chia sẻ một ứng dụng → Tiếp theo**, rồi chọn game hoặc app Remote Play đang dùng.
 
-Chơi PX5: mở hình game bằng [PXPlay](https://play.google.com/store/apps/details?id=psplay.grill.com) trước, rồi chọn chia sẻ PXPlay. Đây là app trả phí riêng. Nếu Android chỉ có chia sẻ toàn màn hình, bạn có thể dùng lựa chọn đó.
+Chơi PX5: mở hình game bằng [Chiaki-Up](https://play.google.com/store/apps/details?id=com.gameblabla.chiaki) trước, rồi chọn chia sẻ Chiaki-Up. Đây là app Remote Play miễn phí. Hãy ghép với PX5 và mở được hình game trước; luồng chia sẻ hình với Console Translator cần thử trên điện thoại thực tế. Nếu Android chỉ có chia sẻ toàn màn hình, bạn có thể dùng lựa chọn đó.
 
 ![Bước 4](assets/guide/05-share-one-app.png)
 
