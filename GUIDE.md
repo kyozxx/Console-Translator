@@ -36,7 +36,7 @@ Bấm **aA** để chỉnh chữ. Bấm bánh răng để đổi bộ dịch, gi
 ## 4. Chỉnh cho dễ đọc và dễ nghe
 
 - **Phụ đề:** trong Cài đặt, chỉnh cỡ chữ và bật/tắt **Hiện câu gốc**. Mới dùng nên giữ thiết lập mặc định trước.
-- **Đọc to bản dịch:** bật khi muốn nghe, dùng **Nghe thử** để kiểm tra giọng của điện thoại. Nếu thiếu giọng, vào **Tải ngôn ngữ** để mở nơi tải giọng. Bản Android dùng giọng của điện thoại; không có bộ giọng Piper như bản iOS.
+- **Đọc to bản dịch:** bật khi muốn nghe, dùng **Nghe thử** để kiểm tra giọng của điện thoại. Nếu thiếu giọng, vào **Tải ngôn ngữ** để mở nơi tải giọng. Giọng đọc phát trên điện thoại.
 - **Hồ sơ game:** tạo một hồ sơ cho từng game để nhớ vùng quét và phong cách dịch.
 - **Chữ hiện dần:** chỉ bật cho game hiện thoại từng chữ; game hiện cả câu thì để tắt.
 - **Dịch AI:** là lựa chọn thêm, cần khóa API riêng. Mã mời beta không phải khóa AI. Chưa có khóa thì dùng **Dịch trên máy**; không cần tự tìm khóa để bắt đầu thử app.
