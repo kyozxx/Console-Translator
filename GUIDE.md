@@ -7,7 +7,19 @@ Hướng dẫn cho người mới, bản APK thử nghiệm. Điện thoại đ�
 - Điện thoại Android 11 trở lên và kết nối Internet. Bản beta vẫn cần mạng để kiểm tra mã, kể cả khi chọn dịch trên máy.
 - File APK và mã mời do người phát hành gửi riêng. Nhận bản mới hoặc liên hệ hỗ trợ tại [Telegram Console Translator](https://t.me/pstranslator).
 - Game bật phụ đề ở phần cài đặt trong game. Lần đầu nên thử tiếng Anh sang tiếng Việt.
-- Nếu chơi PX5: kết nối và xem được hình game trên điện thoại bằng app PS Remote Play trước. Nếu chơi trên TV, điện thoại vẫn phải có hình game để đọc chữ.
+- Nếu chơi PX5: kết nối và xem được hình game trên điện thoại bằng app PXPlay trước. Nếu chơi trên TV, điện thoại vẫn phải có hình game để đọc chữ.
+
+### Chơi PX5: dùng ứng dụng nào trên điện thoại?
+
+Khuyên dùng [PXPlay: Remote Play trên Google Play](https://play.google.com/store/apps/details?id=psplay.grill.com), tên cũ là PSPlay. Nhà phát triển xác nhận cho phép ứng dụng khác chụp/quay màn hình. PXPlay là app trả phí riêng, không đi kèm APK hay mã mời Console Translator. Đây là lựa chọn dựa trên tính năng được công bố; luồng PXPlay + Console Translator vẫn cần kiểm tra trên điện thoại thực tế của bạn.
+
+1. Cài PXPlay từ Google Play. Để điện thoại và PX5 cùng mạng nhà.
+2. Trên PX5, bật Remote Play ở **Settings → System → Remote Play → Enable Remote Play**.
+3. Trong PXPlay, thêm/đăng ký máy theo hướng dẫn của app. Nếu được hỏi mã ghép máy, lấy mã ở **Link Device** trên PX5, không dùng mã mời beta hoặc mã phụ đề TV. Làm phần tài khoản trong PXPlay theo [hướng dẫn của nhà phát triển](https://streamingdv.github.io/pxplay/index.html), không nhập tài khoản vào Console Translator.
+4. Kết nối trong mạng nhà bằng PXPlay và chờ hình game hiện. Giữ chế độ có hình video, không chọn chế độ chỉ làm tay cầm.
+5. Thử chụp màn hình khi có phụ đề game. Nếu ảnh hiện được chữ gốc, tiếp tục các bước dịch ở mục 3, chọn chia sẻ ứng dụng **PXPlay**, rồi kiểm tra một câu có dịch được không.
+
+Nếu đang dùng PS Remote Play của Sony mà ảnh chụp/chia sẻ bị đen hoặc báo không được phép, Console Translator không đọc được phụ đề từ hình đó. Không lấy PS Remote Play làm lựa chọn mặc định cho hướng dẫn này. Nếu PXPlay cũng cho hình đen, dừng để báo lỗi, không tắt bảo vệ hệ thống hay sửa ứng dụng để vượt chặn.
 
 ## 2. Cài APK và nhập mã mời
 
@@ -22,10 +34,10 @@ Mã mời dùng cho một lần cài app trên một máy và có thời hạn d
 
 ## 3. Bắt đầu dịch trên điện thoại
 
-1. Mở game hoặc PS Remote Play, vào đoạn có phụ đề và kiểm tra chữ gốc hiện rõ.
+1. Mở game hoặc PXPlay, vào đoạn có phụ đề và kiểm tra chữ gốc hiện rõ.
 2. Quay về Console Translator. Bấm **Cho phép hiện nổi**, bật quyền cho app rồi quay lại. Quyền này giúp bản dịch hiện trên game.
 3. Vào **Cài đặt → Bộ dịch**, chọn **Dịch trên máy** để thử đơn giản nhất. Nếu app yêu cầu tải ngôn ngữ, vào trang **Tải ngôn ngữ**, tải các gói còn thiếu rồi quay lại.
-4. Bấm **Bắt đầu dịch**. Khi Android hỏi chia sẻ màn hình, ưu tiên **Chia sẻ một ứng dụng** và chọn đúng game hoặc PS Remote Play. Nếu máy chỉ cho chia sẻ toàn màn hình, để phụ đề dịch ở chỗ khác, không che chữ gốc.
+4. Bấm **Bắt đầu dịch**. Khi Android hỏi chia sẻ màn hình, ưu tiên **Chia sẻ một ứng dụng** và chọn đúng game hoặc PXPlay. Nếu máy chỉ cho chia sẻ toàn màn hình, để phụ đề dịch ở chỗ khác, không che chữ gốc.
 5. Trên thanh công cụ nổi, bấm nút **khung quét**, kéo khung trùm chỗ phụ đề gốc, rồi bấm **Xong**. Khung quá rộng sẽ đọc cả menu, điểm số và chữ không cần dịch.
 6. Bấm nút **▶** trên thanh nổi để bắt đầu đọc và dịch. Bấm lần nữa để tạm dừng.
 
@@ -69,7 +81,7 @@ Bấm **Cài lên TV**. Nếu hiện xác nhận tin cậy, kiểm tra đúng TV
 
 ## 7. Mỗi lần chơi trên TV LG
 
-1. Bật PX5 và TV. Kết nối Remote Play trên điện thoại, kiểm tra đã thấy hình game.
+1. Bật PX5 và TV. Kết nối PXPlay trên điện thoại, kiểm tra đã thấy hình game.
 2. Chuẩn bị IP và Passphrase: nếu chưa có, mở Developer Mode trên TV, bật Key Server và xem Passphrase. Ghi nhớ thông tin để nhập trên điện thoại, không gửi cho người khác.
 3. Chuyển TV sang đúng HDMI của PX5 và chờ hình game hiện. Sau đó trên điện thoại vào **Cài cho TV LG webOS**, nhập IP/Passphrase rồi bấm **Mở app đã cài**. Không cần bấm Cài lên TV mỗi lần.
 4. Kết nối phụ đề nếu chưa ghép, dùng mã 8 số đang hiện trên TV. Nút mở nằm trong màn hình LG, không phải nút tự xuất hiện sau ghép nối; mỗi thao tác cần nhập lại Passphrase vì app không lưu nó. Nếu mở không được, kiểm tra lại Developer Mode/Key Server rồi thử lại.
@@ -77,8 +89,9 @@ Bấm **Cài lên TV**. Nếu hiện xác nhận tin cậy, kiểm tra đúng TV
 
 Trong lúc chơi, tránh bấm **Home** hoặc mở app khác bằng remote TV vì lớp phụ đề có thể bị đóng. Không phải mọi nút remote đều bị cấm. Nếu phụ đề mất, trở về HDMI rồi mở app LG lại từ điện thoại; không cần cài lại ngay.
 
-## 8. Ba loại mã, đừng nhập nhầm
+## 8. Các loại mã, đừng nhập nhầm
 
+- **Mã ghép PX5 với PXPlay:** lấy từ Link Device trên máy chơi game, chỉ nhập trong PXPlay khi đăng ký máy. Đây cũng có thể là mã 8 số, nhưng không phải mã phụ đề TV.
 - **Mã mời beta:** người phát hành gửi riêng, nhập vào màn hình **Kích hoạt bản thử** trên điện thoại.
 - **Passphrase 6 ký tự của LG:** xem trong Developer Mode, nhập vào màn hình **Cài cho TV LG** để cài/mở app.
 - **Mã phụ đề 8 số:** hiện trong app nhận phụ đề trên TV, nhập vào **Phụ đề trên TV** để kết nối.
