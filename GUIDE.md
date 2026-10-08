@@ -59,7 +59,7 @@ Phần LG hiện dành cho bản beta đã kích hoạt. Không cần máy tính
 
 **Chuẩn bị TV:** tìm và cài **Developer Mode** trong LG Apps/LG Content Store. Mở app đó, đăng nhập tài khoản LG Developer, bật **Dev Mode Status** và chờ TV khởi động lại. Mở lại Developer Mode, bật **Key Server**.
 
-**Từ điện thoại:** vào **Cài đặt → Phụ đề trên TV → Cài cho TV LG webOS**. Nhập IP TV và **Passphrase 6 ký tự** đang hiện trong Developer Mode, đúng chữ hoa/thường. Điện thoại và TV phải cùng mạng nhà.
+**Từ điện thoại:** vào **Cài đặt → Phụ đề trên TV → Cài cho TV LG webOS**. Nhập IP TV và **Passphrase 6 ký tự** đang hiện trong Developer Mode, đúng chữ hoa/thường. Điện thoại và TV phải cùng mạng nhà. IP là địa chỉ của TV trong mạng nhà, xem ở phần thông tin kết nối trong Cài đặt mạng của TV, ví dụ 192.168.1.50. Nhập địa chỉ của TV nhà bạn, không chép địa chỉ ví dụ.
 
 Bấm **Cài lên TV**. Nếu hiện xác nhận tin cậy, kiểm tra đúng TV/IP; nếu không chắc TV nào, bấm Hủy và hỏi hỗ trợ. Chờ app báo cài thành công. Cài xong app tự mở trên TV.
 
