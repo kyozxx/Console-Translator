@@ -4,6 +4,8 @@
 
 Bật phụ đề trong game. Nếu dùng Remote Play, mở được hình game trên điện thoại trước.
 
+Bản beta: nhập đầy đủ mã `ANDROID-…` do người hỗ trợ cấp rồi bấm **Kích hoạt trên máy này**. Mã cũ 32 ký tự vẫn dùng được; giữ nguyên app và cài APK mới đè lên để tránh mất mã máy. Mã `LGTV-…` chỉ dành cho bộ cài Windows.
+
 ## 1. Cấp quyền hiện nổi
 
 Mở Console Translator, bấm **Cho phép hiện nổi**.
@@ -95,4 +97,4 @@ Một số phần mềm TV khóa quyền hiện nổi. APK này không dành cho
 
 ## TV LG webOS
 
-Xem [hướng dẫn cài TV LG bằng PC](LG.md). Có link tải Windows 1.2.2, hướng dẫn nhận mã cài, bật Developer Mode, mở app TV và ghép phụ đề Android. Nếu không có PC, bản beta Android có thể cài trực tiếp trong Cài đặt → Phụ đề trên TV → Cài cho TV LG webOS.
+Xem [hướng dẫn cài TV LG bằng PC](LG.md). Có link tải Windows 1.2.6, hướng dẫn nhận mã `LGTV-…`, bật Developer Mode, mở app TV và ghép phụ đề Android. Nếu không có PC, bản beta Android có thể cài trực tiếp trong Cài đặt → Phụ đề trên TV → Cài cho TV LG webOS.
