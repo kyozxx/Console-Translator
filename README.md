@@ -4,7 +4,8 @@ Dịch phụ đề game và video trên Android.
 
 - [Hướng dẫn cho người mới](https://kyozxx.github.io/Console-Translator/guide.html)
 - [Hướng dẫn dạng văn bản](GUIDE.md)
-- [Nhận APK, mã mời và hỗ trợ](https://t.me/pstranslator)
+- [Tải Android beta 0.1.1, Android 11 trở lên](https://github.com/kyozxx/Console-Translator/releases/download/android-beta-0.1.1/ConsoleTranslator-Beta-0.1.1.apk)
+- [Nhận mã mời và hỗ trợ](https://t.me/pstranslator)
 - [Chính sách quyền riêng tư](https://kyozxx.github.io/Console-Translator/privacy.html)
 
 Bản beta cần mã riêng cho từng lần cài đặt và kết nối Internet để kiểm tra quyền. TV LG cần Developer Mode; có thể cài và mở app TV bằng bộ cài Windows hoặc bản beta Android.
