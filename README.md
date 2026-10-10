@@ -8,8 +8,8 @@ Dịch phụ đề game và video trên Android.
 - [Nhận mã mời và hỗ trợ](https://t.me/pstranslator)
 - [Chính sách quyền riêng tư](https://kyozxx.github.io/Console-Translator/privacy.html)
 
-Bản beta dùng mã `ANDROID-…` riêng cho từng lần cài đặt và kết nối Internet để kiểm tra quyền. TV LG cần Developer Mode; có thể cài và mở app TV bằng bộ cài Windows hoặc bản beta Android.
+Bản beta dùng mã `ANDROID-…` riêng cho từng lần cài đặt và kết nối Internet để kiểm tra quyền. TV LG cần Developer Mode; có thể cài và mở app TV bằng bộ cài Windows/Mac hoặc bản beta Android.
 
 ## Cài app cho TV LG
 
-[Tải bộ cài Windows 1.2.6](https://github.com/kyozxx/PS-Translator/releases/download/lg-pc-1.2.6/ConsoleTranslator-LG-PC-1.2.6.zip) và xem [hướng dẫn TV LG từng bước](LG.md). Cần mã `LGTV-…` được cấp qua [Telegram](https://t.me/pstranslator); không cần tải hoặc chọn file IPK.
+[Tải bộ cài Windows 1.2.6](https://github.com/kyozxx/PS-Translator/releases/download/lg-pc-1.2.6/ConsoleTranslator-LG-PC-1.2.6.zip) · [Tải bộ cài Mac 1.0.0](https://github.com/kyozxx/PS-Translator/releases/download/lg-mac-1.0.0/ConsoleTranslator-LG-Mac-1.0.0.zip) và xem [hướng dẫn TV LG từng bước](LG.md). Cần mã `LGTV-…` được cấp qua [Telegram](https://t.me/pstranslator); không cần tải hoặc chọn file IPK.
