@@ -75,20 +75,20 @@ Phần cài APK, TV LG, Android TV và xử lý lỗi được thu gọn ở cu�
 
 | Loại TV | Mã Downloader | APK |
 | --- | --- | --- |
-| Android TV / Google TV thông thường | **8966093** | [TV 0.2.2](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.2/Console-Translator-TV.apk) |
-| Xiaomi nội địa Trung Quốc | **8342297** | [TV 0.2.2-mi](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.2-mi/Console-Translator-TV-Mi.apk) |
+| Android TV / Google TV thông thường | **8966093** | [TV 0.2.3](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.3/Console-Translator-TV.apk) |
+| Xiaomi nội địa Trung Quốc | **8342297** | [TV 0.2.3-mi](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.3-mi/Console-Translator-TV-Mi.apk) |
 
 1. Trên TV, cài Downloader by AFTVnews từ Google Play nếu có. Cho phép Downloader cài APK trong Cài đặt → Ứng dụng → Quyền truy cập đặc biệt → Cài đặt ứng dụng không rõ nguồn.
-2. Nhập mã đúng loại TV, tải và cài Console Translator TV. Kiểm tra phiên bản 0.2.2, bản Xiaomi có đuôi -mi.
+2. Nhập mã đúng loại TV, tải và cài Console Translator TV. Kiểm tra phiên bản 0.2.3 (tải bằng mã thì là 0.2.2), bản Xiaomi có đuôi -mi.
 3. Mở app nhận, cấp quyền hiển thị trên ứng dụng khác, rồi bấm Back. Cho phép bỏ qua tối ưu hóa pin nếu được hỏi.
 4. Điện thoại và TV cùng Wi-Fi. Trong Cài đặt → Phụ đề trên TV của điện thoại, chọn TV hoặc nhập địa chỉ hiện trên TV, nhập mã ghép 8 số rồi kết nối.
 5. Chuyển TV sang HDMI. Giữ hình game trên điện thoại, chọn vùng chữ và bấm chạy dịch.
 
-Mã Downloader chỉ dùng tải APK TV, khác mã beta và mã ghép phụ đề 8 số.
+Mã Downloader chỉ dùng tải APK TV, khác mã beta và mã ghép phụ đề 8 số. Hai mã trên hiện vẫn tải bản 0.2.2; muốn bản 0.2.3 thì bấm link APK trong bảng. Từ bản 0.2.3, app TV tự hiện nút Cập nhật khi có bản mới.
 
 ### Xiaomi nội địa
 
-- Dùng bản 0.2.2-mi; Xiaomi quốc tế chạy Android TV / Google TV dùng bản thường.
+- Dùng bản 0.2.3-mi; Xiaomi quốc tế chạy Android TV / Google TV dùng bản thường.
 - Phụ đề chỉ hiện sau khi rời màn hình app nhận và chuyển sang HDMI. Không bấm Tắt app trước khi chơi.
 - Nếu không có Google Play / Downloader, tải APK đúng loại bằng link trên, chép vào USB và cài bằng trình quản lý tệp của TV. Cho phép ứng dụng đó cài APK khi được hỏi; menu tùy TV.
 - Nếu bản thường bị đóng trên TV nội địa, dùng bản -mi, cấp quyền và ghép lại bằng mã 8 số của bản đó.
