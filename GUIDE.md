@@ -101,7 +101,7 @@ Một số phần mềm TV khóa quyền hiện nổi. APK này không dành cho
 
 ## TV Samsung
 
-Xem [hướng dẫn cài TV Samsung bằng PC hoặc Mac](SAMSUNG.md). Có link tải Windows 1.0.2 và Mac 1.0.0, cách bật Developer Mode, nhận mã `SSTV-…` và ghép phụ đề.
+Xem [hướng dẫn cài TV Samsung bằng PC hoặc Mac](SAMSUNG.md). Có link tải Windows 1.0.2 và Mac 1.0.1, cách bật Developer Mode, nhận mã `SSTV-…` và ghép phụ đề.
 
 ## TV LG webOS
 
