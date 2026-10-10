@@ -4,7 +4,7 @@ Dịch phụ đề game và video trên Android.
 
 - [Hướng dẫn cho người mới](https://kyozxx.github.io/Console-Translator/guide.html)
 - [Hướng dẫn dạng văn bản](GUIDE.md)
-- [Tải Android beta 0.1.14, Android 11 trở lên](https://github.com/kyozxx/Console-Translator/releases/download/android-beta-0.1.14/ConsoleTranslator-Beta-0.1.14.apk)
+- [Tải Android beta 0.1.15, Android 11 trở lên](https://github.com/kyozxx/Console-Translator/releases/download/android-beta-0.1.15/ConsoleTranslator-Beta-0.1.15.apk)
 - [Nhận mã mời và hỗ trợ](https://t.me/pstranslator)
 - [Chính sách quyền riêng tư](https://kyozxx.github.io/Console-Translator/privacy.html)
 
