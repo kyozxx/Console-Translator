@@ -59,6 +59,10 @@ Các nút dưới đây được xếp từ trái sang phải như trong ảnh.
 - **Bánh răng · Chỉnh nhanh:** Đổi cách dịch, phong cách, giọng đọc, tốc độ quét hoặc hồ sơ game. Có lối mở cài đặt đầy đủ.
 - **Dấu X · Kết thúc:** Dừng phiên dịch và đóng thanh nổi. Muốn dịch lại, mở app và bấm Bắt đầu dịch.
 
+### Dịch nhiệm vụ, vật phẩm, bảng lựa chọn
+
+Từ bản 0.1.17, nút **khung quét** có thêm **Chọn vùng dịch**. Kéo khung lên nhiệm vụ, mô tả vật phẩm hay bảng lựa chọn rồi bấm **Dịch**. App đọc một lần và hiện bản dịch đúng chỗ chữ gốc trong khoảng 12 giây, mỗi lựa chọn một dòng; chạm vào bản dịch để tắt sớm. Nếu đang nối TV, bản dịch cũng hiện trên TV (cần app TV 0.2.3 trở lên).
+
 ## Không dịch được, kiểm tra nhanh
 
 - **Bấm Bắt đầu dịch mà không hiện hộp hỏi quyền:** bản beta kiểm tra mã qua mạng trước. Từ bản 0.1.2 app báo lý do (mất mạng hoặc mã hết hạn).
