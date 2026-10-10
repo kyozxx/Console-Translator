@@ -95,6 +95,10 @@ Mã Downloader chỉ dùng tải APK TV, khác mã beta và mã ghép phụ đ�
 
 Một số phần mềm TV khóa quyền hiện nổi. APK này không dành cho LG webOS hoặc Samsung Tizen.
 
+## TV Samsung
+
+Xem [hướng dẫn cài TV Samsung bằng PC](SAMSUNG.md). Có link tải Windows 1.0.0, cách bật Developer Mode, nhận mã `SSTV-…` và ghép phụ đề.
+
 ## TV LG webOS
 
 Xem [hướng dẫn cài TV LG bằng PC](LG.md). Có link tải Windows 1.2.6, hướng dẫn nhận mã `LGTV-…`, bật Developer Mode, mở app TV và ghép phụ đề Android. Nếu không có PC, bản beta Android có thể cài trực tiếp trong Cài đặt → Phụ đề trên TV → Cài cho TV LG webOS.
