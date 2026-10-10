@@ -61,7 +61,7 @@ Các nút dưới đây được xếp từ trái sang phải như trong ảnh.
 
 ### Dịch nhiệm vụ, vật phẩm, bảng lựa chọn
 
-Từ bản 0.1.18, nút **khung quét** có thêm **Chọn vùng dịch**. Kéo khung lên nhiệm vụ, mô tả vật phẩm hay bảng lựa chọn rồi bấm **Dịch**. App đọc một lần và hiện bản dịch đúng chỗ chữ gốc trong khoảng 12 giây, mỗi lựa chọn một dòng; chạm vào bản dịch để tắt sớm. Nếu đang nối TV, bản dịch cũng hiện trên TV (cần app TV 0.2.3 trở lên).
+Từ bản 0.1.17, nút **khung quét** có thêm **Chọn vùng dịch**. Kéo khung lên nhiệm vụ, mô tả vật phẩm hay bảng lựa chọn rồi bấm **Dịch**. App đọc một lần và hiện bản dịch đúng chỗ chữ gốc trong khoảng 12 giây, mỗi lựa chọn một dòng; chạm vào bản dịch để tắt sớm. Nếu đang nối TV, bản dịch cũng hiện trên TV (cần app TV 0.2.3 trở lên).
 
 ## Không dịch được, kiểm tra nhanh
 
