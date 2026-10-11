@@ -102,8 +102,16 @@ Phần cài APK, TV LG, Android TV và xử lý lỗi được thu gọn ở cu�
 1. Trên TV, cài Downloader by AFTVnews từ Google Play nếu có. Cho phép Downloader cài APK trong Cài đặt → Ứng dụng → Quyền truy cập đặc biệt → Cài đặt ứng dụng không rõ nguồn.
 2. Nhập mã đúng loại TV, tải và cài Console Translator TV. Kiểm tra phiên bản 0.2.3, bản Xiaomi có đuôi -mi.
 3. Mở app nhận, cấp quyền hiển thị trên ứng dụng khác, rồi bấm Back. Cho phép bỏ qua tối ưu hóa pin nếu được hỏi.
-4. Điện thoại và TV cùng Wi-Fi. Trong Cài đặt → Phụ đề trên TV của điện thoại, chọn TV hoặc nhập địa chỉ hiện trên TV, nhập mã ghép 8 số rồi kết nối.
-5. Chuyển TV sang HDMI. Giữ hình game trên điện thoại, chọn vùng chữ và bấm chạy dịch.
+4. Mở app **Console Translator TV** trên TV. Màn hình TV sẽ hiện **Địa chỉ TV** và **Mã ghép nối (8 số)**:
+
+| Màn hình TV LG | Màn hình Android TV |
+| :---: | :---: |
+| <img src="assets/tv-lg-code.jpg" width="340" alt="Màn hình TV LG" /> | <img src="assets/tv-android-code.png" width="340" alt="Màn hình Android TV" /> |
+
+5. Trên điện thoại (cùng mạng Wi-Fi với TV):
+   - Mở app, vào **Cài đặt → Phụ đề trên TV**.
+   - Nhập **Địa chỉ TV** và **Mã 8 số** đang hiện trên TV, bấm **Kết nối**.
+6. Chuyển TV sang cổng HDMI của máy chơi game (PS5 / PS4 / Xbox). Giữ hình game trên điện thoại, chọn vùng chữ và bấm chạy dịch để phụ đề nổi trên TV.
 
 Mã Downloader chỉ dùng tải APK TV, khác mã beta và mã ghép phụ đề 8 số. Từ bản 0.2.3, app TV tự hiện nút Cập nhật khi có bản mới.
 
