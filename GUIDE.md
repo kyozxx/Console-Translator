@@ -6,6 +6,21 @@ Bật phụ đề trong game. Nếu dùng Remote Play, mở được hình game 
 
 Bản beta: nhập đầy đủ mã `ANDROID-…` do người hỗ trợ cấp rồi bấm **Kích hoạt trên máy này**. Mã cũ 32 ký tự vẫn dùng được; giữ nguyên app và cài APK mới đè lên để tránh mất mã máy. Mã `LGTV-…` chỉ dành cho bộ cài Windows.
 
+## Chơi máy PX5 / PX4? Cài app Remote Play trước
+
+Bắt buộc nếu game chạy trên máy chơi game. Chơi game điện thoại hoặc xem YouTube thì bỏ qua phần này.
+
+Console Translator chỉ đọc và dịch chữ **đang hiện trên màn hình điện thoại**, không tự kết nối được với máy chơi game. Bạn cần một app Remote Play riêng để đưa hình game về điện thoại.
+
+> Đây là app bên ngoài của nhà phát triển khác, **không thuộc Console Translator**. Chúng tôi không làm ra và không hỗ trợ các app này. Bạn chọn app nào cũng được.
+
+- [Chiaki-Up](https://play.google.com/store/apps/details?id=com.gameblabla.chiaki): miễn phí, Google Play.
+- [PXPlay](https://play.google.com/store/apps/details?id=psplay.grill.com): trả phí, Google Play.
+
+1. Mở app Remote Play vừa cài và ghép với máy chơi game.
+2. Vào được **hình game trên điện thoại**.
+3. Mở Console Translator, bấm **Bắt đầu dịch**. Khi Android hỏi, chọn chia sẻ **đúng app Remote Play đó**.
+
 ## 1. Cấp quyền hiện nổi
 
 Mở Console Translator, bấm **Cho phép hiện nổi**.
@@ -37,7 +52,7 @@ Game tiếng Anh đã có bộ đọc chữ. Tiếng Trung, Nhật, Hàn cần t
 
 Bấm **Bắt đầu dịch** lần nữa. Khi Android hỏi, chọn **Chia sẻ một ứng dụng → Tiếp theo**, rồi chọn game hoặc app Remote Play đang dùng.
 
-Chơi PX5: mở hình game bằng [Chiaki-Up](https://play.google.com/store/apps/details?id=com.gameblabla.chiaki) trước, rồi chọn chia sẻ Chiaki-Up. Đây là app Remote Play miễn phí. Hãy ghép với PX5 và mở được hình game trước; luồng chia sẻ hình với Console Translator cần thử trên điện thoại thực tế. Nếu Android chỉ có chia sẻ toàn màn hình, bạn có thể dùng lựa chọn đó.
+Chơi PX5 / PX4: mở hình game bằng app Remote Play trước (xem mục **Chơi máy PX5 / PX4? Cài app Remote Play trước** ở đầu trang), rồi chọn chia sẻ đúng app đó.
 
 ![Bước 4](assets/guide/05-share-one-app.png)
 
