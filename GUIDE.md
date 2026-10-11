@@ -17,6 +17,8 @@ Console Translator chỉ đọc và dịch chữ **đang hiện trên màn hình
 - [Chiaki-Up](https://play.google.com/store/apps/details?id=com.gameblabla.chiaki): miễn phí, Google Play.
 - [PXPlay](https://play.google.com/store/apps/details?id=psplay.grill.com): trả phí, Google Play.
 
+**Chiaki-Up báo không tìm được tài khoản?** Chức năng tìm tài khoản theo tên trong Chiaki-Up hiện đang lỗi. Mở trang [psntools.com/psn/checker](https://www.psntools.com/psn/checker), nhập tên tài khoản PSN để lấy **Account ID**, rồi dán Account ID đó vào Chiaki-Up khi ghép máy. Đây là trang bên ngoài, không thuộc Console Translator.
+
 1. Mở app Remote Play vừa cài và ghép với máy chơi game.
 2. Vào được **hình game trên điện thoại**.
 3. Mở Console Translator, bấm **Bắt đầu dịch**. Khi Android hỏi, chọn chia sẻ **đúng app Remote Play đó**.
