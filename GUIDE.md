@@ -96,8 +96,8 @@ Phần cài APK, TV LG, Android TV và xử lý lỗi được thu gọn ở cu�
 
 | Loại TV | Mã Downloader | APK |
 | --- | --- | --- |
-| Android TV / Google TV thông thường | **8723218** | [TV 0.2.3](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.3/Console-Translator-TV.apk) |
-| Xiaomi nội địa Trung Quốc | **5746271** | [TV 0.2.3-mi](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.3-mi/Console-Translator-TV-Mi.apk) |
+| Android TV / Google TV thông thường | **2230684** | [TV 0.2.3](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.3/Console-Translator-TV.apk) |
+| Xiaomi nội địa Trung Quốc | **5056889** | [TV 0.2.3-mi](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.3-mi/Console-Translator-TV-Mi.apk) |
 
 1. Trên TV, cài Downloader by AFTVnews từ Google Play nếu có. Cho phép Downloader cài APK trong Cài đặt → Ứng dụng → Quyền truy cập đặc biệt → Cài đặt ứng dụng không rõ nguồn.
 2. Nhập mã đúng loại TV, tải và cài Console Translator TV. Kiểm tra phiên bản 0.2.3, bản Xiaomi có đuôi -mi.
