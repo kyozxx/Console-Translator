@@ -133,8 +133,8 @@ Một số phần mềm TV khóa quyền hiện nổi. APK này không dành cho
 
 Chỉ TV Samsung từ 2017 trở lên (Tizen 3.0+); TV 2016 trở về trước không dùng được. Cài thử app TV trước khi donate, xem [TV nào dùng được](SAMSUNG.md#tv-nào-dùng-được).
 
-Xem [hướng dẫn cài TV Samsung bằng PC hoặc Mac](SAMSUNG.md). Có link tải Windows 1.0.11 và Mac 1.0.8, cách bật Developer Mode, nhận mã `SSTV-…` và ghép phụ đề.
+Xem [hướng dẫn cài TV Samsung bằng PC hoặc Mac](SAMSUNG.md). Có link tải Windows 1.0.12 và Mac 1.0.8, cách bật Developer Mode, nhận mã `SSTV-…` và ghép phụ đề.
 
 ## TV LG webOS
 
-Xem [hướng dẫn cài TV LG bằng PC](LG.md). Có link tải Windows 1.2.14, hướng dẫn nhận mã `LGTV-…`, bật Developer Mode, mở app TV và ghép phụ đề Android. Nếu không có PC, bản beta Android có thể cài trực tiếp trong Cài đặt → Phụ đề trên TV → Cài cho TV LG webOS.
+Xem [hướng dẫn cài TV LG bằng PC](LG.md). Có link tải Windows 1.2.15, hướng dẫn nhận mã `LGTV-…`, bật Developer Mode, mở app TV và ghép phụ đề Android. Nếu không có PC, bản beta Android có thể cài trực tiếp trong Cài đặt → Phụ đề trên TV → Cài cho TV LG webOS.
