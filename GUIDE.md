@@ -1,5 +1,7 @@
 # Console Translator Android: hướng dẫn bằng hình
 
+**Mới:** [bản Google Play thử nghiệm, không cần mã](https://kyozxx.github.io/Console-Translator/guide.html#google-play): vào [nhóm](https://groups.google.com/g/console-translator-beta-testers) rồi [tham gia thử nghiệm](https://play.google.com/apps/testing/com.kyozx.consoletranslator), giữ app 14 ngày.
+
 [Nhận APK và mã dùng thử](https://t.me/pstranslator) · [Xem hướng dẫn trên web](https://kyozxx.github.io/Console-Translator/guide.html)
 
 Bật phụ đề trong game. Nếu dùng Remote Play, mở được hình game trên điện thoại trước.
