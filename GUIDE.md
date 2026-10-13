@@ -96,11 +96,11 @@ Phần cài APK, TV LG, Android TV và xử lý lỗi được thu gọn ở cu�
 
 | Loại TV | Mã Downloader | APK |
 | --- | --- | --- |
-| Android TV / Google TV thông thường | **2230684** | [TV 0.2.3](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.3/Console-Translator-TV.apk) |
-| Xiaomi nội địa Trung Quốc | **5056889** | [TV 0.2.3-mi](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.3-mi/Console-Translator-TV-Mi.apk) |
+| Android TV / Google TV thông thường | **2230684** | [TV 0.2.4](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.4/Console-Translator-TV.apk) |
+| Xiaomi nội địa Trung Quốc | **5056889** | [TV 0.2.4-mi](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.4-mi/Console-Translator-TV-Mi.apk) |
 
 1. Trên TV, cài Downloader by AFTVnews từ Google Play nếu có. Cho phép Downloader cài APK trong Cài đặt → Ứng dụng → Quyền truy cập đặc biệt → Cài đặt ứng dụng không rõ nguồn.
-2. Nhập mã đúng loại TV, tải và cài Console Translator TV. Kiểm tra phiên bản 0.2.3, bản Xiaomi có đuôi -mi.
+2. Nhập mã đúng loại TV, tải và cài Console Translator TV. Mã Downloader cài bản 0.2.3; mở app TV và bấm **Cập nhật** để lên 0.2.4. Bản Xiaomi có đuôi -mi.
 3. Mở app nhận, cấp quyền hiển thị trên ứng dụng khác, rồi bấm Back. Cho phép bỏ qua tối ưu hóa pin nếu được hỏi.
 4. Sau khi cài đặt xong, bật máy PS5 trên TV rồi mở app nhận phụ đề:
    - **Samsung:** Bấm mở trực tiếp app trên TV.
@@ -122,7 +122,7 @@ Mã Downloader chỉ dùng tải APK TV, khác mã beta và mã ghép phụ đ�
 
 ### Xiaomi nội địa
 
-- Dùng bản 0.2.3-mi; Xiaomi quốc tế chạy Android TV / Google TV dùng bản thường.
+- Dùng bản 0.2.4-mi; Xiaomi quốc tế chạy Android TV / Google TV dùng bản thường.
 - Phụ đề chỉ hiện sau khi rời màn hình app nhận và chuyển sang HDMI. Không bấm Tắt app trước khi chơi.
 - Nếu không có Google Play / Downloader, tải APK đúng loại bằng link trên, chép vào USB và cài bằng trình quản lý tệp của TV. Cho phép ứng dụng đó cài APK khi được hỏi; menu tùy TV.
 - Nếu bản thường bị đóng trên TV nội địa, dùng bản -mi, cấp quyền và ghép lại bằng mã 8 số của bản đó.
