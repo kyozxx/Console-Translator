@@ -96,6 +96,8 @@ Phần cài APK, TV LG, Android TV và xử lý lỗi được thu gọn ở cu�
 
 ## Cài app nhận phụ đề trên Android TV
 
+Cần **Android TV / Google TV 9 trở lên**. Xem phiên bản: Cài đặt → Tùy chọn thiết bị → Giới thiệu.
+
 | Loại TV | Mã Downloader | APK |
 | --- | --- | --- |
 | Android TV / Google TV thông thường | **6431840** | [TV 0.2.4](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.4/Console-Translator-TV.apk) |
