@@ -129,6 +129,12 @@ Mã Downloader chỉ dùng tải APK TV, khác mã beta và mã ghép phụ đ�
 - Nếu không có Google Play / Downloader, tải APK đúng loại bằng link trên, chép vào USB và cài bằng trình quản lý tệp của TV. Cho phép ứng dụng đó cài APK khi được hỏi; menu tùy TV.
 - Nếu bản thường bị đóng trên TV nội địa, dùng bản -mi, cấp quyền và ghép lại bằng mã 8 số của bản đó.
 
+**Xiaomi nội địa không bật được quyền hiển thị trên ứng dụng khác?**
+
+1. TV: **Settings → Accounts and Security → ADB** → bật, chọn **ALLOW**.
+2. Mở app **Permissions Manager** (khiên xanh).
+3. Chọn **Console Translator TV (Mi)** → `android.permission.SYSTEM_ALERT_WINDOW` → **Allow**.
+
 Một số phần mềm TV khóa quyền hiện nổi. APK này không dành cho LG webOS hoặc Samsung Tizen.
 
 ## TV Samsung
