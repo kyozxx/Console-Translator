@@ -126,7 +126,7 @@ Mã Downloader chỉ dùng tải APK TV, khác mã beta và mã ghép phụ đ�
 
 ### Xiaomi nội địa
 
-- Dùng bản 0.2.4-mi; Xiaomi quốc tế chạy Android TV / Google TV dùng bản thường.
+- Dùng bản 0.2.8-mi; Xiaomi quốc tế chạy Android TV / Google TV dùng bản thường.
 - Phụ đề chỉ hiện sau khi rời màn hình app nhận và chuyển sang HDMI. Không bấm Tắt app trước khi chơi.
 - Nếu không có Google Play / Downloader, tải APK đúng loại bằng link trên, chép vào USB và cài bằng trình quản lý tệp của TV. Cho phép ứng dụng đó cài APK khi được hỏi; menu tùy TV.
 - Nếu bản thường bị đóng trên TV nội địa, dùng bản -mi, cấp quyền và ghép lại bằng mã 8 số của bản đó.
