@@ -100,8 +100,8 @@ Cần **Android TV / Google TV 9 trở lên**. Xem phiên bản: Cài đặt →
 
 | Loại TV | Mã Downloader | APK |
 | --- | --- | --- |
-| Android TV / Google TV thông thường | **6431840** | [TV 0.2.4](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.4/Console-Translator-TV.apk) |
-| Xiaomi nội địa Trung Quốc | **5807802** | [TV 0.2.4-mi](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.4-mi/Console-Translator-TV-Mi.apk) |
+| Android TV / Google TV thông thường | **5580719** | [TV 0.2.8](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.8/Console-Translator-TV.apk) |
+| Xiaomi nội địa Trung Quốc | **1698710** | [TV 0.2.8-mi](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.8-mi/Console-Translator-TV-Mi.apk) |
 
 1. Trên TV, cài Downloader by AFTVnews từ Google Play nếu có. Cho phép Downloader cài APK trong Cài đặt → Ứng dụng → Quyền truy cập đặc biệt → Cài đặt ứng dụng không rõ nguồn.
 2. Nhập mã đúng loại TV, tải và cài Console Translator TV. Bản Xiaomi có đuôi -mi.
