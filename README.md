@@ -5,7 +5,7 @@ Dịch phụ đề game và video trên Android.
 - [Hướng dẫn cho người mới](https://kyozxx.github.io/Console-Translator/guide.html)
 - [Hướng dẫn dạng văn bản](GUIDE.md)
 - [Bản Google Play (thử nghiệm, không cần mã)](https://kyozxx.github.io/Console-Translator/guide.html#google-play): vào [nhóm](https://groups.google.com/g/console-translator-beta-testers), rồi [tham gia thử nghiệm](https://play.google.com/apps/testing/com.kyozx.consoletranslator). Giữ app 14 ngày giúp app lên Play chính thức.
-- [Tải Android beta 0.1.24, Android 11 trở lên](https://github.com/kyozxx/Console-Translator/releases/download/android-beta-0.1.24/ConsoleTranslator-Beta-0.1.24.apk)
+- [Tải Android beta 0.1.25, Android 11 trở lên](https://github.com/kyozxx/Console-Translator/releases/download/android-beta-0.1.25/ConsoleTranslator-Beta-0.1.25.apk)
 - [Nhận mã mời và hỗ trợ](https://t.me/pstranslator)
 - [Chính sách quyền riêng tư](https://kyozxx.github.io/Console-Translator/privacy.html)
 
