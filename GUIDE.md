@@ -8,7 +8,67 @@ Bật phụ đề trong game. Nếu dùng Remote Play, mở được hình game 
 
 Bản beta: nhập đầy đủ mã `ANDROID-…` do người hỗ trợ cấp rồi bấm **Kích hoạt trên máy này**. Mã cũ 32 ký tự vẫn dùng được; giữ nguyên app và cài APK mới đè lên để tránh mất mã máy. Mã `LGTV-…` chỉ dành cho bộ cài Windows.
 
-## Chơi máy PX5 / PX4? Cài app Remote Play trước
+## Chơi máy PX5 / PX4: chuẩn bị một lần
+
+Console Translator **tự kết nối với máy chơi game**, không cần app khác. Trên máy PX5, làm một lần:
+
+1. Thêm một **người chơi phụ** (tài khoản phụ) và đăng nhập một lần. Ghép nối bằng người chơi phụ thì người chơi chính vẫn chơi tiếp bằng tay cầm trên TV.
+2. **Cài đặt → Hệ thống → Chơi từ xa**: bật **Bật Chơi từ xa** cho người chơi phụ.
+3. Nên bật **Cài đặt → Hệ thống → Tiết kiệm điện → Tính năng khi ở chế độ nghỉ → Giữ kết nối Internet** và **Cho phép bật máy qua mạng** để app tự bật máy đang nghỉ.
+
+Điện thoại và máy PX5 dùng chung một mạng Wi-Fi.
+
+## 1. Bấm Bắt đầu dịch game
+
+Chọn **Chơi trên TV** (game vẫn hiện trên TV, điện thoại hiện bản dịch và đọc thoại) hoặc **Chơi trên điện thoại**. Chơi trên điện thoại có 2 cách: **Chơi trực tiếp trong app** hoặc **Dùng app PXPlay hoặc Chiaki** (xem mục cuối).
+
+![Bạn chơi ở đâu](screenshots/android/a02-choice.jpg) ![Chơi trên điện thoại](screenshots/android/a03-choice-phone.jpg)
+
+## 2. Ghép nối máy (chỉ một lần)
+
+1. **Tìm máy:** bấm Tìm máy. Không thấy thì nhập IP ở mục *Không tìm thấy? Nhập địa chỉ bằng tay*.
+2. **Mã người chơi:** mở [id.kyozx.cloud](https://id.kyozx.cloud), nhập Online ID của người chơi phụ, bấm **Tra**, bấm **Sao chép** rồi về app bấm **Dán mã**.
+3. **Mã trên máy:** trên PX5 vào **Cài đặt → Hệ thống → Chơi từ xa → Liên kết thiết bị**, nhập 8 chữ số rồi bấm **Ghép nối**.
+
+![Tìm máy](screenshots/android/a04-pair-1.jpg) ![Mã người chơi](screenshots/android/a05-pair-2.jpg) ![Mã trên máy](screenshots/android/a06-pair-3.jpg)
+
+## 3. Chọn game và người chơi
+
+Ở màn **Kết nối**: bấm **Game đang chơi** để chọn hoặc **Thêm game khác…** (có danh sách game để Dịch AI giữ đúng tên nhân vật và xưng hô). Chọn người chơi dùng **khi dịch** và **khi chơi trên điện thoại**.
+
+![Màn Kết nối](screenshots/android/a07-connect.jpg)
+
+## 4. Dịch khi chơi TV
+
+Bấm **Dịch khi chơi TV**. Tay cầm tắt một lát là bình thường: bấm nút Home trên tay cầm rồi chọn lại người chơi của bạn trên TV. Bản dịch hiện ở hộp dưới cùng và được đọc to; chạm để đọc lại, kéo lên xuống để đổi chỗ. Nút mặt trăng tắt màn hình mà vẫn dịch.
+
+![Tay cầm tắt một lát](screenshots/android/a08-controller.jpg) ![Màn dịch](screenshots/android/a10-tv-live.jpg)
+
+## 5. Đặt khung phụ đề
+
+Chưa dịch? Kiểm tra bước này trước. Bấm **nút vàng**, kéo khung vàng phủ lên chỗ phụ đề tiếng Anh trong game, kéo chấm ở góc để đổi cỡ, rồi bấm **Lưu khung**.
+
+![Khung phụ đề](screenshots/android/a11-scan-box.jpg)
+
+## 6. Dịch menu và Vùng dịch
+
+**Dịch menu** dịch chữ đang hiện (kỹ năng, túi đồ, nhiệm vụ); giữ nút để bật tự động. **Vùng dịch** hiện hình game: kéo khung cam tới chữ cần dịch rồi thả tay.
+
+![Dịch menu](screenshots/android/a12-menu.jpg) ![Vùng dịch](screenshots/android/a13-area.jpg)
+
+## 7. Chơi trên điện thoại
+
+Chọn **Chơi trên điện thoại → Chơi trực tiếp trong app**, chọn chất lượng hình rồi bấm **Chơi**. Bản dịch hiện ngay trên hình; chạm vào hình để hiện thanh nút.
+
+![Chất lượng hình](screenshots/android/a14-phone-setup.jpg)
+
+![Chơi trên điện thoại](screenshots/android/a15-phone-live.jpg)
+
+## Dùng app PXPlay hoặc Chiaki (cách cũ)
+
+Chọn **Chơi trên điện thoại → Dùng app PXPlay hoặc Chiaki**. Bản dịch nổi lên trên app Remote Play bạn đang dùng.
+
+### App Remote Play bên ngoài
 
 Bắt buộc nếu game chạy trên máy chơi game. Chơi game điện thoại hoặc xem YouTube thì bỏ qua phần này.
 
@@ -19,27 +79,27 @@ Console Translator chỉ đọc và dịch chữ **đang hiện trên màn hình
 - [Chiaki-Up](https://play.google.com/store/apps/details?id=com.gameblabla.chiaki): miễn phí, Google Play.
 - [PXPlay](https://play.google.com/store/apps/details?id=psplay.grill.com): trả phí, Google Play.
 
-**Chiaki-Up báo không tìm được tài khoản?** Chức năng tìm tài khoản theo tên trong Chiaki-Up hiện đang lỗi. Mở trang [psntools.com/psn/checker](https://www.psntools.com/psn/checker), nhập tên tài khoản PSN để lấy **Account ID**, rồi dán Account ID đó vào Chiaki-Up khi ghép máy. Đây là trang bên ngoài, không thuộc Console Translator.
+**Chiaki-Up báo không tìm được tài khoản?** Chức năng tìm tài khoản theo tên trong Chiaki-Up hiện đang lỗi. Mở trang [id.kyozx.cloud](https://id.kyozx.cloud), nhập tên tài khoản PSN để lấy **Account ID**, rồi dán Account ID đó vào Chiaki-Up khi ghép máy. Đây là trang bên ngoài, không thuộc Console Translator.
 
 1. Mở app Remote Play vừa cài và ghép với máy chơi game.
 2. Vào được **hình game trên điện thoại**.
 3. Mở Console Translator, bấm **Bắt đầu dịch**. Khi Android hỏi, chọn chia sẻ **đúng app Remote Play đó**.
 
-## 1. Cấp quyền hiện nổi
+### 1. Cấp quyền hiện nổi
 
 Mở Console Translator, bấm **Cho phép hiện nổi**.
 
 ![Bước 1](assets/guide/01-allow-overlay.png)
 
 
-## 2. Bật quyền cho app
+### 2. Bật quyền cho app
 
 Nếu hiện danh sách ứng dụng, chọn **Console Translator Beta**. Bật **Cho phép hiện trên các ứng dụng khác**, rồi quay lại app.
 
 ![Bước 2](assets/guide/02-overlay-permission.png)
 
 
-## 3. Tải ngôn ngữ và giọng đọc
+### 3. Tải ngôn ngữ và giọng đọc
 
 Chọn ngôn ngữ trong game và ngôn ngữ dịch sang, rồi bấm **Bắt đầu dịch**. Nếu app mở **Tải ngôn ngữ**, tải các gói còn thiếu.
 
@@ -52,7 +112,7 @@ Game tiếng Anh đã có bộ đọc chữ. Tiếng Trung, Nhật, Hàn cần t
 ![Bước 3](assets/guide/04-language-downloads.png)
 
 
-## 4. Chọn ứng dụng cần dịch
+### 4. Chọn ứng dụng cần dịch
 
 Bấm **Bắt đầu dịch** lần nữa. Khi Android hỏi, chọn **Chia sẻ một ứng dụng → Tiếp theo**, rồi chọn game hoặc app Remote Play đang dùng.
 
@@ -61,7 +121,7 @@ Chơi PX5 / PX4: mở hình game bằng app Remote Play trước (xem mục **Ch
 ![Bước 4](assets/guide/05-share-one-app.png)
 
 
-## 5. Chọn vùng chữ, rồi chạy dịch
+### 5. Chọn vùng chữ, rồi chạy dịch
 
 Bật phụ đề trong game. Bấm nút **khung quét**, kéo khung bao quanh chữ gốc và bấm **Xong**. Sau đó bấm **tam giác chạy** để bắt đầu dịch.
 
@@ -100,8 +160,8 @@ Cần **Android TV / Google TV 9 trở lên**. Xem phiên bản: Cài đặt →
 
 | Loại TV | Mã Downloader | APK |
 | --- | --- | --- |
-| Android TV / Google TV thông thường | **5580719** | [TV 0.2.14](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.14/Console-Translator-TV.apk) |
-| Xiaomi nội địa Trung Quốc | **1698710** | [TV 0.2.14-mi](https://github.com/kyozxx/PS-Translator/releases/download/tv-android-0.2.14-mi/Console-Translator-TV-Mi.apk) |
+| Android TV / Google TV thông thường | **8179089** | [TV 2.0.1](https://api.kyozx.cloud/tv/latest) |
+| Xiaomi nội địa Trung Quốc | **2484675** | [TV 2.0.1-mi](https://api.kyozx.cloud/tv/latest-mi) |
 
 1. Trên TV, cài Downloader by AFTVnews từ Google Play nếu có. Cho phép Downloader cài APK trong Cài đặt → Ứng dụng → Quyền truy cập đặc biệt → Cài đặt ứng dụng không rõ nguồn.
 2. Nhập mã đúng loại TV, tải và cài Console Translator TV. Bản Xiaomi có đuôi -mi.
@@ -126,7 +186,7 @@ Mã Downloader chỉ dùng tải APK TV, khác mã beta và mã ghép phụ đ�
 
 ### Xiaomi nội địa
 
-- Dùng bản 0.2.14-mi; Xiaomi quốc tế chạy Android TV / Google TV dùng bản thường.
+- Dùng bản 2.0.1-mi; Xiaomi quốc tế chạy Android TV / Google TV dùng bản thường.
 - Phụ đề chỉ hiện sau khi rời màn hình app nhận và chuyển sang HDMI. Không bấm Tắt app trước khi chơi.
 - Nếu không có Google Play / Downloader, tải APK đúng loại bằng link trên, chép vào USB và cài bằng trình quản lý tệp của TV. Cho phép ứng dụng đó cài APK khi được hỏi; menu tùy TV.
 - Nếu bản thường bị đóng trên TV nội địa, dùng bản -mi, cấp quyền và ghép lại bằng mã 8 số của bản đó.
@@ -143,7 +203,7 @@ Một số phần mềm TV khóa quyền hiện nổi. APK này không dành cho
 
 Chỉ TV Samsung từ 2017 trở lên (Tizen 3.0+); TV 2016 trở về trước không dùng được. Cài thử app TV trước khi donate, xem [TV nào dùng được](SAMSUNG.md#tv-nào-dùng-được).
 
-Xem [hướng dẫn cài TV Samsung bằng PC hoặc Mac](SAMSUNG.md). Có link tải Windows 1.0.15 và Mac 1.0.9, cách bật Developer Mode, nhận mã `SSTV-…` và ghép phụ đề.
+Xem [hướng dẫn cài TV Samsung bằng PC hoặc Mac](SAMSUNG.md). Có link tải Windows 1.0.18 và Mac 1.0.15, cách bật Developer Mode, nhận mã `SSTV-…` và ghép phụ đề.
 
 ## TV LG webOS
 
