@@ -298,6 +298,8 @@
         .download-tv.alt { background: transparent; color: var(--text); border: 1px solid var(--text); }
         .download-code { color: var(--text); }
         .play-store { display: block; margin: 4px 0 12px; }
+        .play-badge { display: inline-block; margin: 4px 0 12px; }
+        .play-badge img { display: block; width: 200px; height: auto; }
         .ps-path em, .toggle-list em, li em, .box em { font-style: normal; font-size: 12px; color: var(--muted); }
         .ps-path em { display: block; font-weight: 400; }
         details.tv-fold { background: none; border: 0; padding: 0; margin: 0; }
@@ -392,15 +394,8 @@
         <p class="panel-intro">Làm lần lượt từng bước, bấm vào bước để mở. Bước 2 đến 8 chỉ làm một lần.</p>
 
         <details class="step" id="cai-app"><summary><span class="num">1</span>Cài app</summary><div class="step-body">
-        <p class="why">App đang thử nghiệm trên Google Play. Hai bước dưới phải dùng cùng một Gmail.</p>
-        <ol>
-            <li>Mở <a href="https://groups.google.com/g/console-translator-beta-testers" target="_blank" rel="noopener noreferrer"><strong>nhóm thử nghiệm</strong></a> bằng Gmail đang dùng trên Play Store, bấm <span class="btn-app">Tham gia nhóm</span>.</li>
-            <li>Mở <a href="https://play.google.com/apps/testing/com.kyozx.consoletranslator" target="_blank" rel="noopener noreferrer"><strong>link tải app</strong></a>, bấm <span class="btn-app">Trở thành người thử nghiệm</span>, rồi bấm <strong>tải trên Google Play</strong> và cài như app bình thường.</li>
-        </ol>
-        <a class="download-tv play-store" href="https://play.google.com/apps/testing/com.kyozx.consoletranslator">Tải Console Translator trên Google Play</a>
-        <div class="box warn"><strong>Yêu cầu</strong>Điện thoại Android 11 trở lên. Vừa vào nhóm thì đợi vài phút rồi mở lại link tải. Link mở ra trang trắng: vào Cài đặt › Kết nối › DNS riêng (Private DNS), nhập <strong>dns.google</strong> rồi thử lại.</div>
-        <div class="box tip"><strong>Không cài được bản Google Play? Tải file APK</strong>Tải file về máy rồi mở để cài (cho phép cài app từ trình duyệt nếu máy hỏi). Bản này cần mã <strong>ANDROID-</strong> miễn phí: mở <a href="https://t.me/consoletranslatorbot">bot Telegram</a>, bấm “App Android” để nhận mã. Có bản mới, app tự báo để tải. Trên bản APK, Dịch AI mua theo gói chuyển khoản <strong>49.000đ được 30.000 câu, dùng 30 ngày</strong>; gói này mở khóa cả <strong>Việt hóa</strong> và <strong>danh sách game</strong>, chưa mua thì hai mục này không dùng được.<a class="download-tv" href="https://github.com/kyozxx/Console-Translator/releases/download/android-beta-0.1.30/ConsoleTranslator-Beta-0.1.30.apk">Tải APK beta 0.1.30</a></div>
-        <div class="box tip"><strong>Nhờ ae giữ app 14 ngày</strong>Google cần người thử nghiệm giữ app ít nhất 14 ngày. Mở app dùng vài lần và báo lỗi giúp mình nhé.</div>
+        <p class="why">Bấm nút dưới để mở trang app trên Google Play rồi bấm Cài đặt. Cần điện thoại Android 11 trở lên.</p>
+        <a class="play-badge" href="https://play.google.com/store/apps/details?id=com.kyozx.consoletranslator" target="_blank" rel="noopener noreferrer"><img src="assets/google-play-badge.png" alt="Tải trên Google Play" width="200"></a>
         </div></details>
 
         <details class="step" id="mo-app"><summary><span class="num">2</span>Mở app lần đầu: chọn ngôn ngữ</summary><div class="step-body">
@@ -634,7 +629,7 @@
 
         <details class="platform">
             <summary><span class="platform-name"><span class="platform-icon">A</span>Android TV</span><span class="tag">Cài bằng remote</span></summary>
-            <div class="box tip"><strong>Dễ nhất: cài từ Google Play (thử nghiệm)</strong>Trên TV, mở link bằng cùng Gmail đã vào nhóm thử nghiệm, bấm “Trở thành người thử nghiệm” rồi cài <strong>Console Translator TV</strong>.<a class="download-tv play-store" href="https://play.google.com/apps/testing/com.kyozx.consoletranslator.tv.play">Tải Console Translator TV trên Google Play</a>Không mở được Google Play trên TV thì cài bằng mã Downloader bên dưới.</div>
+            <div class="box tip"><strong>Dễ nhất: cài từ Google Play (thử nghiệm)</strong>Trên TV, mở link bằng Gmail của bạn, bấm “Trở thành người thử nghiệm” rồi cài <strong>Console Translator TV</strong>.<a class="download-tv play-store" href="https://play.google.com/apps/testing/com.kyozx.consoletranslator.tv.play">Tải Console Translator TV trên Google Play</a>Không mở được Google Play trên TV thì cài bằng mã Downloader bên dưới.</div>
             <div class="tv-downloads">
                 <div class="tv-version"><h3>Android TV thông thường</h3><p>Mã Downloader</p><strong class="download-code">8179089</strong><a class="download-button" href="https://api.kyozx.cloud/tv/latest">Tải APK TV</a></div>
                 <div class="tv-version"><h3>TV Xiaomi nội địa</h3><p>Mã Downloader</p><strong class="download-code">2484675</strong><a class="download-button" href="https://api.kyozx.cloud/tv/latest-mi">Tải APK Xiaomi</a></div>

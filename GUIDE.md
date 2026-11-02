@@ -1,12 +1,8 @@
 # Console Translator Android: hướng dẫn bằng hình
 
-**Mới:** [bản Google Play thử nghiệm, không cần mã](https://kyozxx.github.io/Console-Translator/guide.html#google-play): vào [nhóm](https://groups.google.com/g/console-translator-beta-testers) rồi [tham gia thử nghiệm](https://play.google.com/apps/testing/com.kyozx.consoletranslator), giữ app 14 ngày.
-
-[Nhận APK và mã dùng thử](https://t.me/pstranslator) · [Xem hướng dẫn trên web](https://kyozxx.github.io/Console-Translator/guide.html)
+[Tải trên Google Play](https://play.google.com/store/apps/details?id=com.kyozx.consoletranslator) · [Xem hướng dẫn trên web](https://kyozxx.github.io/Console-Translator/guide.html)
 
 Bật phụ đề trong game. Nếu dùng Remote Play, mở được hình game trên điện thoại trước.
-
-Bản beta: nhập đầy đủ mã `ANDROID-…` do người hỗ trợ cấp rồi bấm **Kích hoạt trên máy này**. Mã cũ 32 ký tự vẫn dùng được; giữ nguyên app và cài APK mới đè lên để tránh mất mã máy. Mã `LGTV-…` chỉ dành cho bộ cài Windows.
 
 ## Chơi máy PX5 / PX4: chuẩn bị một lần
 
@@ -94,7 +90,7 @@ Mở Console Translator, bấm **Cho phép hiện nổi**.
 
 ### 2. Bật quyền cho app
 
-Nếu hiện danh sách ứng dụng, chọn **Console Translator Beta**. Bật **Cho phép hiện trên các ứng dụng khác**, rồi quay lại app.
+Nếu hiện danh sách ứng dụng, chọn **Console Translator**. Bật **Cho phép hiện trên các ứng dụng khác**, rồi quay lại app.
 
 ![Bước 2](assets/guide/02-overlay-permission.png)
 
@@ -144,7 +140,6 @@ Từ bản 0.1.17, nút **khung quét** có thêm **Chọn vùng dịch**. Kéo 
 
 ## Không dịch được, kiểm tra nhanh
 
-- **Bấm Bắt đầu dịch mà không hiện hộp hỏi quyền:** bản beta kiểm tra mã qua mạng trước. Từ bản 0.1.2 app báo lý do (mất mạng hoặc mã hết hạn).
 - **Chọn nhầm app khi chia sẻ:** chọn đúng game, YouTube hoặc app Remote Play đang có hình, không chọn app đứng đầu danh sách nếu đó là app khác (ví dụ app nhắn tin).
 - **Không có phụ đề trên màn hình:** bật phụ đề trong game, hoặc nút CC trên YouTube. App chỉ đọc chữ đang hiện.
 - **Chưa bấm nút chạy:** thanh nổi bắt đầu ở trạng thái tạm dừng, bấm tam giác vàng để quét.
