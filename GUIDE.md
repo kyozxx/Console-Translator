@@ -60,6 +60,22 @@ Chọn **Chơi trên điện thoại → Chơi trực tiếp trong app**, chọn
 
 ![Chơi trên điện thoại](screenshots/android/a15-phone-live.jpg)
 
+## Chơi máy Xbox trong app
+
+App tự kết nối với máy Xbox, không cần app khác. Trên máy Xbox, làm một lần:
+
+1. **Cài đặt → Thiết bị & kết nối → Tính năng từ xa**: bật **Tính năng từ xa**.
+2. **Cài đặt → Chung → Tùy chọn nguồn**: chọn **Ngủ (Sleep)**. Ở chế độ **Tắt máy (tiết kiệm điện)** app không bật được máy và không kết nối được.
+3. Trong **Tính năng từ xa**, bấm **Test remote play** để kiểm tra: mục dấu đỏ là phải sửa, dấu vàng vẫn chơi được.
+
+Trong app:
+
+1. **Bắt đầu dịch game → Xbox**, rồi chọn **Dịch khi chơi TV** hoặc **Chơi trên điện thoại**.
+2. Bấm **Đăng nhập**: app hiện một mã. Mở trang Microsoft, nhập mã, đăng nhập tài khoản đang dùng trên máy Xbox. App không thấy mật khẩu.
+3. Chọn máy Xbox của bạn. Không thấy máy: trên máy vào **Cài đặt → Hệ thống → Thông tin máy**, chép **Console ID** vào ô trong app.
+
+App tự tìm máy trong Wi-Fi và tự bật máy đang ngủ. Kết nối không được thì vào **Cài đặt → Nhật ký lỗi → Gửi nhật ký** để gửi cho nhóm hỗ trợ.
+
 ## Dùng app PXPlay hoặc Chiaki (cách cũ)
 
 Chọn **Chơi trên điện thoại → Dùng app PXPlay hoặc Chiaki**. Bản dịch nổi lên trên app Remote Play bạn đang dùng.
@@ -181,7 +197,7 @@ Mã Downloader chỉ dùng tải APK TV, khác mã beta và mã ghép phụ đ�
 
 ### Xiaomi nội địa
 
-- Dùng bản 2.0.1-mi; Xiaomi quốc tế chạy Android TV / Google TV dùng bản thường.
+- Dùng bản 2.0.8-mi; Xiaomi quốc tế chạy Android TV / Google TV dùng bản thường.
 - Phụ đề chỉ hiện sau khi rời màn hình app nhận và chuyển sang HDMI. Không bấm Tắt app trước khi chơi.
 - Nếu không có Google Play / Downloader, tải APK đúng loại bằng link trên, chép vào USB và cài bằng trình quản lý tệp của TV. Cho phép ứng dụng đó cài APK khi được hỏi; menu tùy TV.
 - Nếu bản thường bị đóng trên TV nội địa, dùng bản -mi, cấp quyền và ghép lại bằng mã 8 số của bản đó.
