@@ -84,7 +84,7 @@ Bộ cài cũng tự báo khi chính nó có bản mới: mỗi lần bấm mộ
 | `SSTV-YYYYMMDD-HHMMSS-…` | Nhập trong bộ cài Windows hoặc Mac cho TV Samsung. |
 | `LGTV-YYYYMMDD-HHMMSS-…` | Chỉ dùng cho bộ cài TV LG, không dùng cho Samsung. |
 | `ANDROID-YYYYMMDD-HHMMSS-…` | Kích hoạt app beta trên điện thoại Android. |
-| Mã phụ đề 8 số trên Console Translator TV | Nhập trên điện thoại để ghép phụ đề; mã đổi mỗi phút. |
+| Mã phụ đề 8 số trên Console Translator TV | Nhập trên điện thoại để ghép phụ đề; mã có thời hạn, dùng mã đang hiện. |
 
 Mã cài gắn với tài khoản Windows đã kích hoạt; đổi máy cần mã mới. Mã hết hạn hoặc bị thu hồi chỉ chặn cài tiếp, app đã cài trên TV vẫn mở được.
 
