@@ -106,6 +106,7 @@ Mã cài gắn với tài khoản Windows đã kích hoạt; đổi máy cần m
 - **`SS-OLD_TV`:** TV sản xuất trước năm 2017 (Tizen 2.x). App cần Tizen 3.0 trở lên nên TV này chưa cài được. Xem đời TV: bấm **Kiểm tra kết nối TV**, dòng "TV: Tizen ..." trong nhật ký.
 - **Không cài được:** kiểm tra mã SSTV còn hạn và kết nối Internet. Nếu vẫn lỗi, sao chép toàn bộ log (có mã lỗi `SS-…`) gửi hỗ trợ.
 - **Không thấy cổng HDMI trong app:** cắm và bật máy chơi game trước khi mở app.
+- **App mở được 1 giây rồi tự thoát, hoặc nháy rồi vào thẳng game:** app không bị lỗi, tính năng HDMI-CEC tự chuyển TV sang cổng của máy chơi game nên đẩy app ra. Trên TV vào **Cài đặt → Kết nối → Trình quản lý thiết bị bên ngoài**, tắt **Anynet+ (HDMI-CEC)**. Nếu vẫn bị, trên PS5 vào **Cài đặt → Hệ thống → HDMI**, tắt **Bật liên kết thiết bị HDMI**.
 - **App biến mất sau một thời gian:** TV có thể tự tắt Developer Mode và gỡ app cài ngoài. Bật lại Developer Mode rồi cài lại.
 
 [Telegram hỗ trợ](https://t.me/pstranslator)
