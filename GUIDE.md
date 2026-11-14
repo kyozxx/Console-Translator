@@ -171,8 +171,8 @@ Cần **Android TV / Google TV 9 trở lên**. Xem phiên bản: Cài đặt →
 
 | Loại TV | Mã Downloader | APK |
 | --- | --- | --- |
-| Android TV / Google TV thông thường | **8179089** | [TV 2.0.8](https://api.kyozx.cloud/tv/latest) |
-| Xiaomi nội địa Trung Quốc | **2484675** | [TV 2.0.8-mi](https://api.kyozx.cloud/tv/latest-mi) |
+| Android TV / Google TV thông thường | **8179089** | [TV 2.0.9](https://api.kyozx.cloud/tv/latest) |
+| Xiaomi nội địa Trung Quốc | **2484675** | [TV 2.0.9-mi](https://api.kyozx.cloud/tv/latest-mi) |
 
 1. Trên TV, cài Downloader by AFTVnews từ Google Play nếu có. Cho phép Downloader cài APK trong Cài đặt → Ứng dụng → Quyền truy cập đặc biệt → Cài đặt ứng dụng không rõ nguồn.
 2. Nhập mã đúng loại TV, tải và cài Console Translator TV. Bản Xiaomi có đuôi -mi.
@@ -197,7 +197,7 @@ Mã Downloader chỉ dùng tải APK TV, khác mã beta và mã ghép phụ đ�
 
 ### Xiaomi nội địa
 
-- Dùng bản 2.0.8-mi; Xiaomi quốc tế chạy Android TV / Google TV dùng bản thường.
+- Dùng bản 2.0.9-mi; Xiaomi quốc tế chạy Android TV / Google TV dùng bản thường.
 - Phụ đề chỉ hiện sau khi rời màn hình app nhận và chuyển sang HDMI. Không bấm Tắt app trước khi chơi.
 - Nếu không có Google Play / Downloader, tải APK đúng loại bằng link trên, chép vào USB và cài bằng trình quản lý tệp của TV. Cho phép ứng dụng đó cài APK khi được hỏi; menu tùy TV.
 - Nếu bản thường bị đóng trên TV nội địa, dùng bản -mi, cấp quyền và ghép lại bằng mã 8 số của bản đó.
