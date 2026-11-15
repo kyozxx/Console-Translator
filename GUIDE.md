@@ -23,7 +23,7 @@ Chọn **Chơi trên TV** (game vẫn hiện trên TV, điện thoại hiện b�
 ## 2. Ghép nối máy (chỉ một lần)
 
 1. **Tìm máy:** bấm Tìm máy. Không thấy thì nhập IP ở mục *Không tìm thấy? Nhập địa chỉ bằng tay*.
-2. **Mã người chơi:** mở [id.kyozx.cloud](https://id.kyozx.cloud), nhập Online ID của người chơi phụ, bấm **Tra**, bấm **Sao chép** rồi về app bấm **Dán mã**.
+2. **Mã nick:** mở [id.kyozx.cloud](https://id.kyozx.cloud), nhập Online ID của nick phụ, bấm **Tra**, bấm **Sao chép** rồi về app bấm **Dán mã BASE64**.
 3. **Mã trên máy:** trên PX5 vào **Cài đặt → Hệ thống → Chơi từ xa → Liên kết thiết bị**, nhập 8 chữ số rồi bấm **Ghép nối**.
 
 ![Tìm máy](screenshots/android/a04-pair-1.jpg) ![Mã người chơi](screenshots/android/a05-pair-2.jpg) ![Mã trên máy](screenshots/android/a06-pair-3.jpg)
